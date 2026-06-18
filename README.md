@@ -49,26 +49,16 @@ Source: Kaggle
 * Middle-aged customers represent the highest-converting demographic segment.
   
 # Business Recommendations
- Improve Funnel Conversion: Reduce customer drop-offs through personalized follow-up strategies.
-# Optimize Contact Channels
+Improve Funnel Conversion: Reduce customer drop-offs through personalized follow-up strategies.
 Prioritize channels that consistently generate higher conversion rates.
-# Control Campaign Frequency
 Maintain optimal contact frequency to prevent customer fatigue.
-# Target High-Converting Segments
 Focus marketing efforts on occupations and demographics with strong conversion performance.
-# Enhance Customer Segmentation
 Use demographic insights to develop personalized marketing campaigns.
 
 **Project Deliverables**
-✔ Marketing Funnel Dashboard
-✔ Conversion Performance Analysis Report
-✔ Google Colab Notebook
-✔ Data Visualizations
-
-
-✔ Business Insights & Recommendations
-✔ GitHub Documentation
-
----
-
- Analytics Enthusiast | Python | SQL | Power BI | Machine Learning
+* Marketing Funnel Dashboard
+* Conversion Performance Analysis Report
+* Google Colab Notebook
+* Data Visualizations
+* Business Insights & Recommendations
+* GitHub Documentation
